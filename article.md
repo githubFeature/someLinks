@@ -13,3 +13,5 @@ https://habr.com/company/mailru/blog/359246/
 https://github.com/collections/github-browser-extensions
 
 https://rawgit.com
+
+https://m.habr.com/company/eastbanctech/blog/323760/
