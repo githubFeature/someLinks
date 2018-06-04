@@ -15,3 +15,5 @@ https://github.com/collections/github-browser-extensions
 https://rawgit.com
 
 https://m.habr.com/company/eastbanctech/blog/323760/
+
+http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html gitlab token
