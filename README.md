@@ -1,5 +1,7 @@
 ####
 
+https://proglib.io/p/git-debugging/
+
 https://guides.hexlet.io/vim/#когда-не-стоит-учить-вим
 
 https://issuehunt.io
