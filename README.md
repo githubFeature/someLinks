@@ -1,5 +1,7 @@
 ####
 
+https://guides.hexlet.io/vim/#когда-не-стоит-учить-вим
+
 https://issuehunt.io
 
 https://medium.com/@a8h333/oh-my-workflow-ed6a69cb630b
