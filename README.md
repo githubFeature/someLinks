@@ -1,5 +1,7 @@
 ####
 
+https://habr.com/post/130868/
+
 https://tproger.ru/translations/make-files-best-practices/
 
 http://www.linuxlib.ru/prog/make_379_manual.html
