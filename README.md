@@ -1,5 +1,25 @@
 ####
 
+https://tproger.ru/translations/make-files-best-practices/
+
+http://www.linuxlib.ru/prog/make_379_manual.html
+
+https://habr.com/post/211751/
+
+http://parallel.imm.uran.ru/freesoft/make/make.html
+
+http://citforum.ru/operating_systems/gnumake/index.shtml
+
+https://www.oreilly.com/openbook/make3/book/index.csp
+
+https://www.ibm.com/developerworks/ru/library/linux_windows_12/index.html
+
+https://ru.wikipedia.org/wiki/Make
+
+https://en.wikipedia.org/wiki/Make_(software)
+
+#####
+
 https://proglib.io/p/git-debugging/
 
 https://guides.hexlet.io/vim/#когда-не-стоит-учить-вим
