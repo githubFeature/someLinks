@@ -20,7 +20,11 @@ https://ru.wikipedia.org/wiki/Make
 
 https://en.wikipedia.org/wiki/Make_(software)
 
-#####
+
+
+####
+
+https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту
 
 https://proglib.io/p/git-debugging/
 
