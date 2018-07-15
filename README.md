@@ -1,5 +1,11 @@
 ####
 
+http://schacon.github.io/git/git-rev-parse#_specifying_revisions
+
+https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/2222920#2222920
+
+http://www.paulboxley.com/blog/2011/06/git-caret-and-tilde
+
 https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
 
 https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/2222920#2222920
