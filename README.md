@@ -1,5 +1,7 @@
 ####
 
+https://contributor.ninja
+
 http://schacon.github.io/git/git-rev-parse#_specifying_revisions
 
 https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/2222920#2222920
