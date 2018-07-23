@@ -1,5 +1,7 @@
 ####
 
+http://firstaidgit.ru/#/
+
 https://contributor.ninja
 
 http://schacon.github.io/git/git-rev-parse#_specifying_revisions
