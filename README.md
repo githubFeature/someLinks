@@ -1,5 +1,7 @@
 ####
 
+https://dev.to/cseeman/git-workflow-and-my-new-love-of-git-alias-38kj
+
 https://git-scm.com/book/ru/v1/Ветвление-в-Git-Перемещение
 
 http://firstaidgit.ru/#/
