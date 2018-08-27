@@ -1,5 +1,7 @@
 ####
 
+https://developers.google.com/web/resources/translations
+
 http://www.f-notes.info/linux:linux_command
 
 https://habr.com/company/flant/blog/419733/
