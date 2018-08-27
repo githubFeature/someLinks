@@ -1,5 +1,7 @@
 ####
 
+http://www.f-notes.info/linux:linux_command
+
 https://habr.com/company/flant/blog/419733/
 
 https://habr.com/post/75728/
