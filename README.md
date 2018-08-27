@@ -1,5 +1,9 @@
 ####
 
+https://gitlocalize.com/repo/107
+
+https://gitlocalize.com/repo/107/ru/src/content/en/fundamentals
+
 https://developers.google.com/web/resources/translations
 
 http://www.f-notes.info/linux:linux_command
