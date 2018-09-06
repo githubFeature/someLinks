@@ -1,4 +1,16 @@
 ####
+https://github.com/pierre-lecocq/emacs4developers
+https://github.com/topics/emacs-configuration
+https://github.com/topics/vim-configuration
+https://github.com/topics/developer-tools
+https://github.com/topics/dotfiles
+https://github.com/junegunn/vim-plug
+https://github.com/topics/vim-scripts
+https://github.com/qutebrowser/qutebrowser
+https://vimawesome.com/
+https://medium.com/vim-drops/css-autocompletion-on-vim-no-plugins-needed-e8df9ce079c7
+https://github.com/maxboisvert/vim-simple-complete
+https://github.com/auto-complete/auto-complete
 
 https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
 
