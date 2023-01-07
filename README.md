@@ -1,6 +1,9 @@
 ####
+Did you know the command git clean -Xfd will remove all files from your project that match the current contents of your .gitignore file?
 https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o
+
 https://github.com/leoliu/ggtags
+
 https://github.com/pierre-lecocq/emacs4developers
 https://github.com/topics/emacs-configuration
 https://github.com/topics/vim-configuration
